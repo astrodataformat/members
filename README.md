@@ -1,6 +1,7 @@
-members
-=======
+Astrodataformat Member Repository
+=================================
 
-Repostitory for member roster of expertise, e.g. 
+This repostitory is for holding the member 
+roster of expertise, e.g. 
 
 https://github.com/astrodataformat/members/wiki
